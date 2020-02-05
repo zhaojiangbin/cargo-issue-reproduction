@@ -1,0 +1,8 @@
+[package]
+name = "one"
+version = "0.1.0"
+authors = ["Jiangbin Zhao <jiangbinz@radware.com>"]
+edition = "2018"
+
+[dependencies]
+pnet = { version = "^0.25.0" }
