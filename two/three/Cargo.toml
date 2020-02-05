@@ -5,10 +5,3 @@ authors = ["Jiangbin Zhao <zhaojiangbin@gmail.com>"]
 edition = "2018"
 
 [dependencies]
-
-[dev-dependencies]
-criterion = "0.3.1"
-
-[[bench]]
-name = "write"
-harness = false
